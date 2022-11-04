@@ -10,4 +10,4 @@ Profesor: John Atkinson. Facultad de Ingeniería y Ciencias, UAI.
 
 ## Tareas Final:
 
-[**Tarea final del curso.](https://github.com/educarrascov/MIA_ReinforcementLearning/blob/main/Tarea%201.ipynb). 
+[Tarea final del curso.](https://github.com/educarrascov/MIA_ReinforcementLearning/blob/main/Tarea%201.ipynb) 
