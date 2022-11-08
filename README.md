@@ -8,6 +8,6 @@ Profesor: John Atkinson. Facultad de Ingeniería y Ciencias, UAI.
  
 ![Python](https://img.shields.io/badge/python-%2314354C.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg)
 
-## Tareas Final:
+## Tareas:
 
-[Tarea final del curso.](https://github.com/educarrascov/MIA_NaturalLP/blob/main/3.%20Tarea/Tarea%20NLP_ecarrascov.ipynb) 
+[Tarea final del curso - Análisis Semántico Latente (LSA) para generar embeddings - **Summarization**](https://github.com/educarrascov/MIA_NaturalLP/blob/main/3.%20Tarea/Tarea%20NLP_ecarrascov.ipynb) 
